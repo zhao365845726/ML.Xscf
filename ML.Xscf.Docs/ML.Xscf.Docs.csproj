@@ -71,7 +71,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
 
-    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="AutoMapper" Version="15.1.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
     <PackageReference Include="Senparc.Scf.AreaBase" Version="0.3.312-beta2" />
     <PackageReference Include="Senparc.Scf.XscfBase" Version="0.3.312-beta2" />
